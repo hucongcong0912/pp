@@ -1,0 +1,18 @@
+{
+    "name": "hucc/hello",
+    "description": "ll",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "hh",
+            "email": "2977129971@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Hello\\": "src/"
+        }
+    }
+}
